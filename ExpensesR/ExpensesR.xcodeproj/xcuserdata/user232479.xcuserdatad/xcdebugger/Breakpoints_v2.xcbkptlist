@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "25136B47-BED1-40CF-879E-C476CB02315E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8EF7BB28-C0C1-4439-8B8B-E45EB56BBC51"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExpensesR/Models/Expense.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "init(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8EF7BB28-C0C1-4439-8B8B-E45EB56BBC51 - 874cea43ce6146c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpensesR.Expense.__allocating_init(from: Swift.Decoder) throws -&gt; ExpensesR.Expense"
+                  moduleName = "ExpensesR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user232479/Documents/ExpensesR/ExpensesR/Models/Expense.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "8EF7BB28-C0C1-4439-8B8B-E45EB56BBC51 - 39312ebd18d9f4ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExpensesR.Expense.init(from: Swift.Decoder) throws -&gt; ExpensesR.Expense"
+                  moduleName = "ExpensesR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user232479/Documents/ExpensesR/ExpensesR/Models/Expense.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
